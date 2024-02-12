@@ -1,0 +1,14 @@
+{
+    "baseurl":"https://dummyjson.com",
+    "tags":
+    {
+        "product":"#"
+    },
+    "relativeurl":
+    [
+        {
+        "name": "product#",
+        "url": "/products/#"
+        }
+    ]
+}
