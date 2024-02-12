@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RO/+p3MMA6HzZdXAI9Dh4M0RSZenk9FuO6KkkX1FRyYelzEE1Ofk+kRt4O8kYy6rRztHh6UKVVfjn+pVdPh3Kg==",
+  "success": true,
+  "projectFilePath": "/Users/tanmayfuse/Projects/multithreading_async_await/multithreading_async_await/multithreading_async_await.csproj",
+  "expectedPackageFiles": [
+    "/Users/tanmayfuse/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

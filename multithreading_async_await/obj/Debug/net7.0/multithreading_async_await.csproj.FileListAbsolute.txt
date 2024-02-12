@@ -1,0 +1,17 @@
+/Users/tanmayfuse/Projects/multithreading_async_await/multithreading_async_await/obj/Debug/net7.0/multithreading_async_await.csproj.AssemblyReference.cache
+/Users/tanmayfuse/Projects/multithreading_async_await/multithreading_async_await/obj/Debug/net7.0/multithreading_async_await.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tanmayfuse/Projects/multithreading_async_await/multithreading_async_await/obj/Debug/net7.0/multithreading_async_await.AssemblyInfoInputs.cache
+/Users/tanmayfuse/Projects/multithreading_async_await/multithreading_async_await/obj/Debug/net7.0/multithreading_async_await.AssemblyInfo.cs
+/Users/tanmayfuse/Projects/multithreading_async_await/multithreading_async_await/obj/Debug/net7.0/multithreading_async_await.csproj.CoreCompileInputs.cache
+/Users/tanmayfuse/Projects/multithreading_async_await/multithreading_async_await/bin/Debug/net7.0/multithreading_async_await
+/Users/tanmayfuse/Projects/multithreading_async_await/multithreading_async_await/bin/Debug/net7.0/multithreading_async_await.deps.json
+/Users/tanmayfuse/Projects/multithreading_async_await/multithreading_async_await/bin/Debug/net7.0/multithreading_async_await.runtimeconfig.json
+/Users/tanmayfuse/Projects/multithreading_async_await/multithreading_async_await/bin/Debug/net7.0/multithreading_async_await.dll
+/Users/tanmayfuse/Projects/multithreading_async_await/multithreading_async_await/bin/Debug/net7.0/multithreading_async_await.pdb
+/Users/tanmayfuse/Projects/multithreading_async_await/multithreading_async_await/obj/Debug/net7.0/multithreading_async_await.dll
+/Users/tanmayfuse/Projects/multithreading_async_await/multithreading_async_await/obj/Debug/net7.0/refint/multithreading_async_await.dll
+/Users/tanmayfuse/Projects/multithreading_async_await/multithreading_async_await/obj/Debug/net7.0/multithreading_async_await.pdb
+/Users/tanmayfuse/Projects/multithreading_async_await/multithreading_async_await/obj/Debug/net7.0/multithreading_async_await.genruntimeconfig.cache
+/Users/tanmayfuse/Projects/multithreading_async_await/multithreading_async_await/obj/Debug/net7.0/ref/multithreading_async_await.dll
+/Users/tanmayfuse/Projects/multithreading_async_await/multithreading_async_await/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/tanmayfuse/Projects/multithreading_async_await/multithreading_async_await/obj/Debug/net7.0/multithreading_async_await.csproj.CopyComplete

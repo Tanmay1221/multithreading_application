@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{24B082D4-DF40-41F3-89CC-5127416F45AF}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="multithreading_async_await/Program.cs">
+    <Files>
+      <File FileName="multithreading_async_await/Program.cs" Line="13" Column="55" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="multithreading_async_await" expanded="True" selected="True">
+            <Node name="multithreading_async_await" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.multithreading__async__await PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
